@@ -1,0 +1,3 @@
+INTERFACE zif_stopwatch PUBLIC.
+
+ENDINTERFACE.
